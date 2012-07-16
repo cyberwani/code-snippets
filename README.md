@@ -73,9 +73,3 @@ Changelog
 
 ### 1.0
 * Stable version released.
-
-Upgrade Notice
-==============
-
-### 1.1
-* Minor bug fixes and improvments on the the 'Edit Snippet' page
