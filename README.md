@@ -58,11 +58,20 @@ The import/export feature is currently in development. You can however, use the 
 Screenshots
 ===========
 
-1. The Manage Snippets page
-2. The Add New Snippet page
-3. Editing a snippet
-4. The Uninstall Plugin page
-5. Each screen includes a help tab just in case you get stuck.
+![The Manage Snippets page](screenshot-1.png) 
+The Manage Snippets page   
+
+![The Add New Snippet page](screenshot-2.png) 
+The Add New Snippet page   
+
+![Editing a snippet](screenshot-3.png) 
+Editing a snippet   
+
+![The Uninstall Plugin page](screenshot-4.png) 
+The Uninstall Plugin page   
+
+![Each screen includes a help tab just in case you get stuck.](screenshot-5.png) 
+Each screen includes a help tab just in case you get stuck.   
 
 Changelog
 =========
