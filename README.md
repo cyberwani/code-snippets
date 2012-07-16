@@ -1,10 +1,10 @@
 Code Snippets
 =============
 
-**Requires at least: WordPress 3.3**
-**Tested up to: WordPress 3.4**
-**Current version: 1.1**
-**License: GPLv3 or later**
+**Requires at least:** WordPress 3.3   
+**Tested up to:** WordPress 3.4   
+**Current version:** 1.1   
+**License:** GPLv3 or later   
 
 Allows you to easily add code snippets through a GUI interface.
 
