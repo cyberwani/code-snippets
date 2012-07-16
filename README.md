@@ -58,19 +58,19 @@ The import/export feature is currently in development. You can however, use the 
 Screenshots
 ===========
 
-![The Manage Snippets page](code-snippets/blob/master/screenshot-1.png)   
+![The Manage Snippets page](code-snippets/raw/master/screenshot-1.jpg)   
 The Manage Snippets page   
 
-![The Add New Snippet page](code-snippets/blob/master/screenshot-2.png)   
+![The Add New Snippet page](code-snippets/raw/master/screenshot-2.jpg)   
 The Add New Snippet page   
 
-![Editing a snippet](code-snippets/blob/master/screenshot-3.png)   
+![Editing a snippet](code-snippets/raw/master/screenshot-3.jpg)   
 Editing a snippet   
 
-![The Uninstall Plugin page](code-snippets/blob/master/screenshot-4.png)   
+![The Uninstall Plugin page](code-snippets/raw/master/screenshot-4.jpg)   
 The Uninstall Plugin page   
 
-![Each screen includes a help tab just in case you get stuck.](code-snippets/blob/master/screenshot-5.png)   
+![Each screen includes a help tab just in case you get stuck.](code-snippets/raw/master/screenshot-5.jpg)   
 Each screen includes a help tab just in case you get stuck.   
 
 Changelog
